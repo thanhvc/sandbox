@@ -34,7 +34,6 @@ public class ActivityStreamRest extends HashMap<String, Object> {
   /**
    * Activities of activityStream;
    */
-  @OptionalValue
   ActivityRest[] activities;
 
   /**

@@ -14,12 +14,14 @@
  * You should have received a copy of the GNU Affero General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
-package org.exoplatform.social.sandbox.rest.model;
+package org.exoplatform.social.sandbox.fsm.impl;
 
-import java.lang.annotation.Retention;
-import java.lang.annotation.RetentionPolicy;
-
-@Retention(RetentionPolicy.RUNTIME)
-public @interface OptionalValue {
+/**
+ * Created by The eXo Platform SAS
+ * Author : eXoPlatform
+ *          exo@exoplatform.com
+ * Sep 30, 2011  
+ */
+public class XMLFSM {
 
 }

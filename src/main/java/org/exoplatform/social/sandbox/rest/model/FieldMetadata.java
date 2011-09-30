@@ -16,6 +16,7 @@
  */
 package org.exoplatform.social.sandbox.rest.model;
 
+
 /**
  * Created by The eXo Platform SAS
  * Author : Thanh_VuCong
